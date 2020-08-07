@@ -1,0 +1,6 @@
+= Common Java code for Insights
+
+A repository with common technnical code that can be used in java based 
+projects.
+
+The goal is to add reusable technical code here.
