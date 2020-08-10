@@ -1,6 +1,18 @@
 = Common Java code for Insights
 
-A repository with common technnical code that can be used in java based 
+A repository with common technnical code that can be used in java based
 projects.
 
 The goal is to add reusable technical code here.
+
+
+Import in your project like
+
+[source,xml]
+----
+   <dependency>
+      <groupId>com.redhat.cloud.common</groupId>
+      <artifactId>java</artifactId>
+      <version>1.0-SNAPSHOT</version>
+   </dependency>
+----
