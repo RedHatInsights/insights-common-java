@@ -17,7 +17,6 @@
 package com.redhat.cloud.common.pager;
 
 import com.redhat.cloud.common.filter.Filter;
-import io.quarkus.panache.common.Sort;
 import io.reactivex.annotations.Nullable;
 
 
