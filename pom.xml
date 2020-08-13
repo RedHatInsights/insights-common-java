@@ -30,9 +30,9 @@
   </licenses>
 
   <scm>
-    <connection>scm:git:git@github.com:RedHatInsights/insights-common-java.git</connection>
-    <url>scm:git:git@github.com:RedHatInsights/insights-common-java.git</url>
-    <developerConnection>scm:git:git@github.com:RedHatInsights/insights-common-java.git</developerConnection>
+    <connection>scm:git:https://github.com/RedHatInsights/insights-common-java.git</connection>
+    <url>scm:git:https://github.com/RedHatInsights/insights-common-java.git</url>
+    <developerConnection>scm:git:https://github.com/RedHatInsights/insights-common-java.git</developerConnection>
   </scm>
 
   <developers>

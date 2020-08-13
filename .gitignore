@@ -1,8 +1,7 @@
 target/
-.iml
+*.iml
 .idea
 .ipr
 /deploy/tmp/
-app.iml
 
 .DS_Store
