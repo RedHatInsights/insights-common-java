@@ -1,7 +1,7 @@
 package com.redhat.cloud.common;
 
 import com.redhat.cloud.common.filter.Filter;
-import io.quarkus.panache.common.Parameters;
+import com.redhat.cloud.common.filter.Parameters;
 import org.junit.Assert;
 import org.junit.jupiter.api.Test;
 
